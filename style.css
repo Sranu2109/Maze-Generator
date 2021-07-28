@@ -1,0 +1,17 @@
+body {
+    overflow-x: hidden;
+}
+
+#navbar {
+    color: #fff;
+    background: #202124;
+    height: 60px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+
+#canvas {
+    margin-left: 50vw;
+    transform: translate(-50%, 0);
+}

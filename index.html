@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<head>
+    <title>maze generator</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js"></script>
+</head>
+
+<body>
+    <div id="navbar">
+        <button onclick="generate()" class="btn btn-primary">generate new maze</button>
+        <label for="slider">size</label>
+        <input onchange="valueChanged()" id="slider" type="range" min="11" max="201" value="21" step="2">
+        <label for="autorefresh">autorefresh</label>
+        <input type="checkbox" id="autorefresh">
+    </div>
+
+    <canvas id="canvas" width="600" height="600" onclick="generate()"></canvas>
+
+    <script>
+        generate()
+    </script>
+</body>
+
+</html>
