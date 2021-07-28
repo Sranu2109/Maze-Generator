@@ -4,7 +4,11 @@
 
 To inspect:- [https://js-maze-generator.netlify.app/](https://js-maze-generator.netlify.app/)
 
-## Abstract
+## Approach :-
+
+[![Breadth-First (Wave)](https://img.shields.io/badge/Breadth--First-wave-teal.svg?style=flat-square)](https://www.andymikulski.com/waves) 
+
+## Algorithm :-
 
 A maze can be defined, for example as a 2D array byte type values (or something similar) where each element of this array represents one field. We will need a total of three field values:
 + Nothing (open field)
