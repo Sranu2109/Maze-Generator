@@ -1,6 +1,6 @@
 # Maze-Generator
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sranu2109/Maze-Generator.svg?logo=git&style=social)](https://github.com/Sranu2109/Maze-Generator/) [![Linkedin](https://img.shields.io/linedin.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/ranu-singh-792ba91b4/)  [![GitHub license](https://img.shields.io/github/license/Sranu2109/Maze-Generator.svg?style=social&logo=github)](https://github.com/Sranu2109/Maze-Generator/blob/master/LICENSE)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sranu2109/Maze-Generator.svg?logo=git&style=social)](https://github.com/Sranu2109/Maze-Generator/) [![Linkedin](https://img.shields.io//www.linkedin.com/in/ranu-singh-792ba91b4.svg?style=social&logo=appveyor)](https://www.linkedin.com/in/ranu-singh-792ba91b4)  [![GitHub license](https://img.shields.io/github/license/Sranu2109/Maze-Generator.svg?style=social&logo=github)](https://github.com/Sranu2109/Maze-Generator/blob/master/LICENSE)
 
 To inspect:- [https://js-maze-generator.netlify.app/](https://js-maze-generator.netlify.app/)
 
@@ -50,4 +50,4 @@ A maze can be defined, for example as a 2D array byte type values (or something 
 
 ## Special thanks to :-
 
-Generated maze based on this [algorithm](https://www.itnetwork.cz/algoritmy/bludiste/algoritmus-tvorba-nahodneho-bludiste/)
+krystofex and Lekce 2- Generování náhodného bludiště
