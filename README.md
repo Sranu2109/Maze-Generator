@@ -48,6 +48,6 @@ A maze can be defined, for example as a 2D array byte type values (or something 
 
 <em>If we find the maze too difficult to pass, just at the beginning a few randomly selected base boxes to change to a wall - the more, the easier the maze will be, because this will allow the emergence of isolated sections of walls that do not touch the edge and therefore go around in more ways.</em>
 
-## Special thanks to :-
+## Special thanks :-
 
 krystofex and Lekce 2- Generování náhodného bludiště
